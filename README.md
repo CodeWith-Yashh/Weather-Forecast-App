@@ -21,6 +21,7 @@ This Project deals with the forecasting of Weather. And that forecast process is
 - Responsive
 - Live Forecast Using Weather API
 - Toast Animations
+- Dynamic Metrics (Celsius / Fahrenheit) with a single click
 - Live Location Tracking
 - Search Any City
 
